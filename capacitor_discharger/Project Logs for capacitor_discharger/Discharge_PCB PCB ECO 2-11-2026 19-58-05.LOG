@@ -1,0 +1,16 @@
+Change Component Comment : Designator=Q1 Old Comment=BXP4N65D New Comment=AOD4184A
+Added Component: Designator=R1(Wurth 0603 Resistor bigger)
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Wurth 0603 Resistor bigger)
+Add component (AddParameter): Name = "Value"; Value = "27R"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Wurth 0603 Resistor bigger)
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_1 Pin=R1-1
+Added Pin To Net: NetName=NetQ1_4 Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R3-2
+Added Pin To Net: NetName=NetD3_1 Pin=R4-1
+Added Pin To Net: NetName=NetQ1_4 Pin=R4-2
+Added Member To Class: ClassName=Discharge Member=Component R1 Resistor 100R 0603
+Added Member To Class: ClassName=Discharge Member=Component R3 Resistor 27R 0603
+Added Member To Class: ClassName=Discharge Member=Component R4 Resistor 100R 0603

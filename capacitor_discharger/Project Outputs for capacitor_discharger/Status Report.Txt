@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [capacitor_discharger.PrjPcb]
+   Generated File[Discharge_PCB_Copper_Signal_Top.gbr]
+   Generated File[Discharge_PCB_Copper_Signal_Bot.gbr]
+   Generated File[Discharge_PCB_Legend_Top.gbr]
+   Generated File[Discharge_PCB_Legend_Bot.gbr]
+   Generated File[Discharge_PCB_Soldermask_Top.gbr]
+   Generated File[Discharge_PCB_Soldermask_Bot.gbr]
+   Generated File[Discharge_PCB_Paste_Top.gbr]
+   Generated File[Discharge_PCB_Paste_Bot.gbr]
+   Generated File[Discharge_PCB_Profile.gbr]
+   Generated File[Discharge_PCB_NPTH_Drill.gbr]
+   Generated File[Discharge_PCB_PTH_Drill.gbr]
+   Generated File[Discharge_PCB.EXTREP]
+   Generated File[Discharge_PCB.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 20:29:13 On 2/11/2026

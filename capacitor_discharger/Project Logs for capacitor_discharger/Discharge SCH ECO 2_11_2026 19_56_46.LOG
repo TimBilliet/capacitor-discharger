@@ -1,0 +1,21 @@
+Replace Part D1 Yangjie ABS10 bruggelijkrichter in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Yangjie ABS10 bruggelijkrichter from Diodes.schlib
+Replace Part D2 LED RED 0603 in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with LED RED 0603 from LED.SchLib
+Replace Part D3 LED RED 0603 in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with LED RED 0603 from LED.SchLib
+Replace Part J1 Solder pad in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Solder pad from Connectors.schlib
+Replace Part J2 Solder pad in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Solder pad from Connectors.schlib
+Replace Part M1 Mounting hole in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Mounting hole from Mechanical.SchLib
+Replace Part M2 Mounting hole in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Mounting hole from Mechanical.SchLib
+Replace Part M3 Mounting hole in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Mounting hole from Mechanical.SchLib
+Replace Part M4 Mounting hole in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Mounting hole from Mechanical.SchLib
+Replace Part P1 2P in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with 2P from 2.54mm_pin_headers.SchLib
+Replace Part P2 2P in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with 2P from 2.54mm_pin_headers.SchLib
+Update Managed Component Q1 From CMP-83955-000007-1[BXP4N65D] To CMP-83955-000007-1[AOD4184A] in Discharge.SchDoc
+Update Managed Component Q2 From CMP-1048-01467-1[BC547B] To CMP-1048-01467-1[BC547B] in Discharge.SchDoc
+Replace Part R1 Resistor 100R 0603 in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Resistor 100R 0603 from Passives.schlib
+Replace Part R2 Resistor 39k 0805 250mW in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Resistor 39k 0805 250mW from Passives.schlib
+Replace Part R3 Resistor 27R 0603 in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Resistor 27R 0603 from Passives.schlib
+Replace Part R4 Resistor 100R 0603 in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Resistor 100R 0603 from Passives.schlib
+Replace Part R5 Resistor 39k 0805 250mW in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Resistor 39k 0805 250mW from Passives.schlib
+Replace Part R6 Resistor 39k 0805 250mW in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Resistor 39k 0805 250mW from Passives.schlib
+Replace Part R7 Resistor 39k 0805 250mW in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with Resistor 39k 0805 250mW from Passives.schlib
+Replace Part Z1 BZT52B15 in C:\Users\Tim\Documents\github_repos\capacitor-discharger\capacitor_discharger\Discharge.SchDoc with BZT52B15 from Diodes.schlib
